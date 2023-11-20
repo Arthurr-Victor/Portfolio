@@ -8,10 +8,15 @@
 
   ![OLIST-Dashboards](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/assets/127077847/6401f9e9-c54a-41f6-973c-0e67572be42b)
 
+#### Acidentes de trânsito no Reino Unido
+-  **Dashboard que representa a síntese da minha análise feita a partir de mais de 397mil acidentes ocorridos no Reino unido em 2021 e 2022.**
+  (Link)
+
 ### Python
-#### Panorama de Casos e Óbitos da COVID-19
-- Análise exploratória dos registros de óbitos e casos da COVID-19.
-- Destaque para os países com os mais altos números de óbitos.
+#### Segmentação de clientes: Uma abordagem estratégica
+-  Análise exploratória para identificação de padrões e insights segundo o comportamento de compra de cada cliente.
+-  Segmentação
+
 
 #### Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro
 - Segundo lugar na Competição da Universidade dos Dados.
